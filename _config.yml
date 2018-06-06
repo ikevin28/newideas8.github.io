@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-TW"
-title                    : ""
+title                    : "新思路｜NewIdeas"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : " 新思路｜NewIdeas"
+  name             : ""
   avatar           : "logo.jpg"
   bio              :
   location         :
