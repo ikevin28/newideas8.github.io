@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-TW"
-title                    : "新思路文創科技"
+title                    : "新思路｜N"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "新思路文創科技"
+  name             : "NewIdeas Cultural&Creative Technology"
   avatar           : "profile.png"
-  bio              : "NewIdeas Cultural&Creative Technology"
+  bio              : ""
   location         : "Location"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
