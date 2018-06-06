@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "新思路｜NewIdeas"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "新思路"
 description              : &description "personal description"
 url                      : https://newideas8.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "NewIdeas"
   avatar           : "logo.jpg"
-  bio              :
+  bio              : ""
   location         : "台北/台中/高雄"
   employer         :
   googlescholar    :
