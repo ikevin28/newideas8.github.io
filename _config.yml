@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-TW"
-title                    : "新思路｜N"
+title                    : "新思路｜NewIdeas"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
