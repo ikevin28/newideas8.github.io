@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cultural&Creative Tech"
+  name             :
   avatar           : "profile.png"
-  bio              : ""
-  location         : ""
+  bio              :
+  location         :
   employer         :
-  googlescholar    : ""
-  email            :
+  googlescholar    :
+  email            : "ikevin28@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ""
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
