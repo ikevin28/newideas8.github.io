@@ -21,7 +21,6 @@ redirect_from:
 
 前端設計開發
 :   UI/UX Design
-:   RWD Design
 
 Startup
 :   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
