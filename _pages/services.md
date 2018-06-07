@@ -11,21 +11,27 @@ redirect_from:
 
 * 系統分析與規劃
 * 系統設計與開發
-  * 網站設計開發
-  * APP設計開發  
+  * 網站應用系統
+  * 手機應用程式  
 * 自動化測試程式
 * 單元與整合測試
 * 嵌入式系統開發
 
-## 網站設計開發
+## 網站應用系統
 
 前端設計開發
-:   UI/UX(User Interface/User Experience)
-:   RWD(Responsive Web Design)
+:   使用者介面/使用者體驗(UI/UX)
+:   響應式設計(RWD)
 
 後端設計開發
 :   後台管理系統
-:   API設計開發
+:   API 設計開發
+
+## 手機應用程式
+
+APP設計開發
+:   安卓APP設計開發
+:   蘋果APP設計開發
 
 #dowork
 :   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
