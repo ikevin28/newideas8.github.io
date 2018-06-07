@@ -14,24 +14,37 @@ redirect_from:
   * 網站應用系統
   * 手機應用程式  
 * 自動化測試程式
-* 單元與整合測試
 * 嵌入式系統開發
+* 系統上線與維護
 
 ## 網站應用系統
 
 前端設計開發
-:   使用者介面/使用者體驗(UI/UX)
-:   響應式設計(RWD)
+:   使用者介面/使用者體驗(UI/UX)、響應式設計(RWD)
 
 後端設計開發
-:   後台管理系統
-:   API 設計開發
+:   後台管理系統、API 設計開發
 
 ## 手機應用程式
 
 APP設計開發
 :   安卓APP設計開發
 :   蘋果APP設計開發
+
+## 數位行銷整合
+
+  *  > Quotes are cool.
+      * List item one 
+          * List item one
+          * List item two
+          * List item three
+          * List item four
+      * List item two
+      * List item three
+      * List item four
+  * List item two
+  * List item three
+  * List item four
 
 #dowork
 :   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
