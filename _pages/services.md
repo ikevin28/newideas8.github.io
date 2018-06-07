@@ -20,11 +20,12 @@ redirect_from:
 ## 網站設計開發
 
 前端設計開發
-:   UI/UX Design
-:   RWD Design
+:   UI/UX(User Interface/User Experience)
+:   RWD(Responsive Web Design)
 
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+後端設計開發
+:   後台管理系統
+:   API設計開發
 
 #dowork
 :   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
