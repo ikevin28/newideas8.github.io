@@ -7,20 +7,30 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## 資訊系統開發
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* 系統分析與規劃
+* 系統設計與開發
+  * 網站設計開發
+  * APP設計開發  
+* 自動化測試程式
+* 單元與整合測試
+* 嵌入式系統開發
+
+## 網站設計開發
+
+前端設計開發
+:   UI/UX Design
+:   RWD Design
+
+Startup
+:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+
+#dowork
+:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
+
+Do It Live
+:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
 
 ## Tips and hints
 
