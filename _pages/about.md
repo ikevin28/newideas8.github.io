@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "簡介｜Brief Introduction"
+title: "關於｜About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
