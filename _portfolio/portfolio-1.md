@@ -1,6 +1,6 @@
 ---
 title: "電子書平台"
-excerpt: "愛閱書城，一個嶄新的網路書店，支援電子書、實體書(含二手書)等。<br/><img src='/images/ipad2-500x300.jpg'>"
+excerpt: "愛閱書城，一個嶄新的網路書店，支援電子書、實體書(含二手書)等。<br/><img src='/images/ireadings/500x300.jpg'>"
 collection: portfolio
 ---
 
@@ -10,9 +10,9 @@ collection: portfolio
 使用者可於此平台購買EPUB3.0電子書並於線上直接開啟閱讀(Cloud EPUB Reader)。<br/>
 
 PC：<br/>
-<img src='/images/ireadings/Home-ebook.jpg'><br/>
+<img src='/images/ireadings/pc.jpg'><br/>
 
 iPad：<br/>
-<img src='/images/ireadings/ipad2.jpg'>
+<img src='/images/ireadings/ipad.jpg'>
 Mobile：<br/>
-<img src='/images/ireadings/mobile-home.jpg'><br/>
+<img src='/images/ireadings/mobile.jpg'><br/>
