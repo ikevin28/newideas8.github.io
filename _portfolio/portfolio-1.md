@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "電子書平台"
 excerpt: "愛閱書城，一個嶄新的網路書店，支援電子書、實體書等。<br/><img src='/images/ipad2.jpg'>"
 collection: portfolio
 ---
