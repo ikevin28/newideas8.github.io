@@ -9,6 +9,11 @@ collection: portfolio
 平台支援超商店到店與郵寄等物流方式。<br/>
 使用者可於此平台購買EPUB3.0電子書並於線上直接開啟閱讀(Cloud EPUB Reader)。<br/>
 
+PC：<br/>
+<img src='/images/Home-ebook.jpg'><br/>
+
 iPad：<br/>
 <img src='/images/ipad2.jpg'><br/>
 
+Mobile：<br/>
+<img src='/images/mobile-home.jpg'><br/>
