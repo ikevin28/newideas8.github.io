@@ -13,7 +13,6 @@ PC：<br/>
 <img src='/images/ireadings/Home-ebook.jpg'><br/>
 
 iPad：<br/>
-<img src='/images/ireadings/ipad2.jpg'><br/>
-
+<img src='/images/ireadings/ipad2.jpg'>
 Mobile：<br/>
 <img src='/images/ireadings/mobile-home.jpg'><br/>
