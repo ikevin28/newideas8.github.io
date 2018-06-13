@@ -26,7 +26,7 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  <a href="https://newideas8.github.io/portfolio/portfolio-1/"><img src='/images/ireadings/500x300.jpg'></a>
+  
 Skills
 ======
 * Skill 1
