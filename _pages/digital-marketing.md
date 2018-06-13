@@ -11,7 +11,7 @@ redirect_from:
 社群媒體，例如 FB、IG、Line@ 的經營，已成為數位行銷非常重要的一環，
 在現今這個時代，能有效經營社群媒體的組織，通常能獲得很高的行銷成效。
 
-## 社群媒體代管經營服務
+## 社群媒體經營服務
 
 > 社群媒體經營整體規劃
 
@@ -19,6 +19,9 @@ redirect_from:
 
 > 社群媒體直播影音規劃與執行
 
-## 社群媒體代管經營案例
+## 社群媒體經營案例
 【愛閱書城】粉絲專頁
 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fireadings%2F&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+【食在有研究】粉絲專頁
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fieating8%2F&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
