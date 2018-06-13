@@ -1,29 +1,33 @@
 ---
-permalink: /contact/
-title: "聯絡我們"
+permalink: /digital-marketing/
+title: "數位行銷"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-<div id="wufoo-z1xn4pkt1wwivl5">
-Fill out my <a href="https://newideas8.wufoo.com/forms/z1xn4pkt1wwivl5">online form</a>.
+數位行銷是指運用電腦科技與網路進行行銷活動,再好的產品與服務,也是需要有效的方式讓更多人發現與了解。
+社群媒體，例如 FB、IG、Line@ 的經營，已成為數位行銷非常重要的一環，
+在現今這個時代，能有效經營社群媒體的組織，通常能獲得很高的行銷成效。
+
+## 社群媒體代管經營項目
+> 經營整體規劃
+> 貼文規劃與執行
+> 直播影音規劃與執行
+
+## 社群媒體經營案例分享
+
+<div id="fb-root"></div>
+<script type="text/javascript">// <![CDATA[
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v2.8&appId=181165922290988";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+// ]]></script>
+<div class="fb-page" data-href="https://www.facebook.com/ireadings/" data-tabs="timeline" data-width="500" data-height="1080" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+<blockquote class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/LoveReading.eBooks/">愛閱書城</a></blockquote>
 </div>
-<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">Online contact and registration forms from <a href="http://www.wufoo.com">Wufoo</a>.</div>
-<script type="text/javascript">var z1xn4pkt1wwivl5;(function(d, t) {
-var s = d.createElement(t), options = {
-'userName':'newideas8',
-'formHash':'z1xn4pkt1wwivl5',
-'autoResize':true,
-'height':'750',
-'async':true,
-'host':'wufoo.com',
-'header':'show',
-'ssl':true};
-s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
-s.onload = s.onreadystatechange = function() {
-var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-try { z1xn4pkt1wwivl5 = new WufooForm();z1xn4pkt1wwivl5.initialize(options);z1xn4pkt1wwivl5.display(); } catch (e) {}};
-var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-})(document, 'script');</script>
