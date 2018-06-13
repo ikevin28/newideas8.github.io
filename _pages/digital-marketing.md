@@ -18,7 +18,6 @@ redirect_from:
 
 ## 社群媒體經營案例分享
 【愛閱書城】粉絲專頁
-<div id="fb-root"></div>
 <script type="text/javascript">// <![CDATA[
 (function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -28,6 +27,3 @@ redirect_from:
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));
 // ]]></script>
-<div class="fb-page" data-href="https://www.facebook.com/ireadings/" data-tabs="timeline" data-width="500" data-height="1080" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
-<blockquote class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/ireadings/">愛閱書城</a></blockquote>
-</div>
