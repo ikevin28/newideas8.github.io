@@ -16,7 +16,7 @@ var s = d.createElement(t), options = {
 'userName':'newideas8',
 'formHash':'z1xn4pkt1wwivl5',
 'autoResize':true,
-'height':'620',
+'height':'750',
 'async':true,
 'host':'wufoo.com',
 'header':'show',
