@@ -1,31 +1,15 @@
 # main links links
-main:    
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "作品介紹"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+main:
 
   - title: "專業服務"
     url: /services/
-
-  - title: "聯絡我們"
-    url: /contact/
+    
+  - title: "作品介紹"
+    url: /portfolio/
     
   - title: "數位行銷"
     url: /digital-marketing/
+      
+  - title: "聯絡我們"
+    url: /contact/
+    
