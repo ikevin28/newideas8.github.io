@@ -1,6 +1,6 @@
 ---
-permalink: /services/
-title: "專業服務"
+permalink: /tech-info/
+title: "技術交流"
 author_profile: true
 redirect_from: 
   - /md/
