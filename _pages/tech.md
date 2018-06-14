@@ -1,37 +1,14 @@
 ---
 layout: archive
-title: "Sitemap"
-permalink: /sitemap/
+title: "技術交流"
+permalink: /tech/
 author_profile: true
 ---
 
-{% include base_path %}
+##PHP
+PHP（全稱：PHP：Hypertext Preprocessor，即「PHP：超文字預處理器」）是一種開源的通用電腦手稿語言，尤其適用於網路開發並可嵌入HTML中使用。PHP的語法借鑑吸收C語言、Java和Perl等流行電腦語言的特點，易於一般程式設計師學習。PHP的主要目標是允許網路開發人員快速編寫動態頁面，但PHP也被用於其他很多領域。
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+PHP從PHP3開始有了基本的物件導向（Object oriented）的特性，但直到PHP5將物件導向部份重新改寫之後，PHP的物件導向功能才比較完善。現在PHP可以說是一個有完整物件導向功能的語言。
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
+PHP一直被當作直譯器使用。PHP編譯器則將PHP從直譯器中分離，為加快運行和改善與以其他程式語言編寫部份的互通性，例如Phalanger將PHP編譯成通用中間語言和Hiphop for PHP把PHP原始碼編譯成C++等。Facebook因應其網站大量的使用者，整合了HPHPc、HPHPi、HPHPd以及HHVM這四種腳本引擎，開發出HipHop for PHP，以加強網站效能。
 
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% capture written_label %}'None'{% endcapture %}
-
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
-{% endfor %}
