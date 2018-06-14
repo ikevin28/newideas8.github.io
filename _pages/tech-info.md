@@ -15,7 +15,7 @@ PHP從PHP3開始有了基本的物件導向（Object oriented）的特性，但�
 
 PHP一直被當作直譯器使用。PHP編譯器則將PHP從直譯器中分離，為加快運行和改善與以其他程式語言編寫部份的互通性，例如Phalanger將PHP編譯成通用中間語言和Hiphop for PHP把PHP原始碼編譯成C++等。Facebook因應其網站大量的使用者，整合了HPHPc、HPHPi、HPHPd以及HHVM這四種腳本引擎，開發出HipHop for PHP，以加強網站效能。
 
-<div class="fb-group" data-href="https://www.facebook.com/groups/199493136812961/" data-show-social-context="true" data-show-metadata="true"></div>
+<a href="https://www.facebook.com/groups/199493136812961/">test</a>
 
 * 系統分析與規劃
 * 系統設計與開發
