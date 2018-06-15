@@ -1,10 +1,9 @@
 ---
 title: "訂單管理系統"
-excerpt: "訂單管理系統前後台。<br/><img src='/images/factory/500x300.jpg'>"
+excerpt: "訂單管理系統後台。<br/><img src='/images/factory/500x300.jpg'>"
 collection: portfolio
 ---
 
-訂單管理系統後台：<br/>
 > 加工單管理<br/>
 > 產品管理<br/>
 > 交貨管理<br/>
