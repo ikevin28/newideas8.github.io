@@ -39,9 +39,9 @@ PHP框架：Symfony, Laravel, CodeIgniter, Zend Framework, Phalcon, Yii, ThinkPH
 ## FB社團
 * <a href="https://www.facebook.com/groups/1403852566495675/" target = "_blank">Taiwan 程式語言讀書會 [JAVA,C,C++,C#,VB...等不拘]</a>
 * <a href="https://www.facebook.com/groups/199493136812961/" target = "_blank">PHP 台灣</a>
-* <a href="https://www.facebook.com/groups/pythontw/">Python Taiwan</a>
+* <a href="https://www.facebook.com/groups/pythontw/" target = "_blank">Python Taiwan</a>
 * <a href="https://www.facebook.com/groups/laravel.tw/" target = "_blank">Laravel 台灣</a>
-* <a href="https://www.facebook.com/groups/drupaltaiwan/">Drupal Taiwan</a>
+* <a href="https://www.facebook.com/groups/drupaltaiwan/" target = "_blank">Drupal Taiwan</a>
 
 ## FB粉專
 * Drupal
@@ -57,5 +57,5 @@ PHP框架：Symfony, Laravel, CodeIgniter, Zend Framework, Phalcon, Yii, ThinkPH
 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSymfonyFramework%2F&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ## 參考資料
-* <a href="https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5">維基百科</a>
-* <a href="https://www.google.com.tw/">Google</a>
+* <a href="https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" target = "_blank">維基百科</a>
+* <a href="https://www.google.com.tw/" target = "_blank">Google</a>
