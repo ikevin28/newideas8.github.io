@@ -21,7 +21,7 @@ PHP框架：Symfony, Laravel, CodeIgniter, Zend Framework, Phalcon, Yii, ThinkPH
 * Python 直譯器本身幾乎可以在所有的作業系統中執行。Python的正式直譯器CPython是用C語言編寫的、是一個由社群驅動的自由軟體，目前由Python軟體基金會管理。
 * Python的設計哲學是「優雅」、「明確」、「簡單」。
 
-## C#
+## C sharp
 
 * C#是微軟推出的一種基於.NET框架的、物件導向的進階程式語言。C#以.NET框架類別庫作為基礎，擁有類似Visual Basic的快速開發能力。
 * C#旨在設計成為一種「簡單、現代、通用」，以及物件導向的程式設計語言。
@@ -49,44 +49,15 @@ PHP框架：Symfony, Laravel, CodeIgniter, Zend Framework, Phalcon, Yii, ThinkPH
 * <a href="https://www.facebook.com/groups/drupaltaiwan/">Drupal Taiwan</a>
 
 ## FB粉專
+
+* Drupal
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fdrupal8%2F&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
 * PHP
 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPHP-109797105707485%2F&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 * Python
 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fpythonlang%2F&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-
-
-* 系統分析與規劃
-* 系統設計與開發
-  * 網站應用系統(Web)
-  * 手機應用程式(App)
-  * 前端設計開發
-    * 響應式網站設計(RWD)
-    * 使用者介面/使用者體驗(UI/UX)
-  * 後端設計開發
-    * 後台管理系統   
-    * API設計開發  
-* 自動化測試程式
-* 嵌入式系統開發
-
-## 數位行銷整合
-
-> 搜尋引擎最佳化(SEO)
-
-> 網站流量分析(GA)
-
-> 社群媒體經營
-
-> 行銷機器人
-
-## 創新軟體服務
-
-* 電子書銷售服務平台(EPUB3.0)
-  * 雲端電子書櫃服務
-  * 線上電子書閱讀器
-  
-* 電子書編輯製作服務(EPUB3.0)
-  * 電子書編輯製作
-  * 有聲書編輯製作
-  * 電子書轉製服務
+* Symfony
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSymfonyFramework%2F&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
