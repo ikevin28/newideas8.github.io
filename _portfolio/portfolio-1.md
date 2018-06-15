@@ -1,6 +1,6 @@
 ---
 title: "電子書平台"
-excerpt: "愛閱書城，一個嶄新的網路書店，支援電子書、實體書等。<br/><img src='/images/ireadings/500x300.jpg'>"
+excerpt: "愛閱書城，一個嶄新的網路書店(整合電子書、實體書)。<br/><img src='/images/ireadings/500x300.jpg'>"
 collection: portfolio
 ---
 
