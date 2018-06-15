@@ -1,22 +1,23 @@
 ---
-title: "訂單管理系統"
-excerpt: "訂單管理系統前後台。<br/><img src='/images/factory/500x300.jpg'>"
+title: "雲端電子書櫃"
+excerpt: "雲端電子書櫃(EPUB)。<br/><img src='/images/ebookshelf/500x300.jpg'>"
 collection: portfolio
 ---
 
-訂單管理系統後台：<br/>
-> 加工單管理<br/>
-> 產品管理<br/>
-> 交貨管理<br/>
-> 工時管理<br/>
-> 系統設定<br/>
-> 檔案管理<br/>
+雲端電子書櫃：<br/>
+> 支援EPUB2.0&3.0 電子書格式<br/>
+> 支援有聲書<br/>
+> Read Anywhere<br/>
+> Read AnyTime<br/>
 
-PC：<br/>
-<img src='/images/factory/pc.jpg'><br/>
+* 線上電子書櫃：<br/>
+<img src='/images/ebookshelf/ebookshelf1.jpg'><br/>
 
-iPad：<br/>
-<img src='/images/factory/ipad.jpg'><br/>
+* 閱讀器設定：<br/>
+<img src='/images/ebookshelf/ebookshelf2.jpg'><br/>
 
-Mobile：<br/>
-<img src='/images/factory/mobile.jpg'><br/>
+* 電子書閱讀器：<br/>
+<img src='/images/ebookshelf/ebookreader.jpg'><br/>
+
+* 有聲書閱讀器：<br/>
+<img src='/images/ebookshelf/audiobook.jpg'><br/>
