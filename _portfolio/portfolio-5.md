@@ -4,7 +4,6 @@ excerpt: "雲端電子書櫃(EPUB)。<br/><img src='/images/ebookshelf/500x300.j
 collection: portfolio
 ---
 
-雲端電子書櫃：<br/>
 > 支援EPUB2.0&3.0 電子書格式<br/>
 > 支援有聲書<br/>
 > Read Anywhere<br/>
