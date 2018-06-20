@@ -13,5 +13,5 @@ redirect_from:
 
 * 歡迎加賴：0966826893</br>
 
-## 歡迎掃QRCode加瀨</br>
+## 歡迎掃QRCode加賴</br>
 <img src='/images/contact/QR Code(Line0966826893).jpg'>
