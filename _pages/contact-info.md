@@ -1,5 +1,5 @@
 ---
-permalink: /contact/
+permalink: /contact-info/
 title: "聯絡我們"
 author_profile: true
 redirect_from: 
