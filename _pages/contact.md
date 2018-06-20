@@ -7,6 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
+<p>歡迎來信：<a href="mailto:newideas6688@gmail.com" target="_blank"><span style="background-color: #f9f9f9; color: #333333; font-family: Roboto, arial, sans-serif; font-size: 13px;">newideas6688@gmail.com</span></a></p>
+
+
 <div id="wufoo-z1xn4pkt1wwivl5">
 Fill out my <a href="https://newideas8.wufoo.com/forms/z1xn4pkt1wwivl5">online form</a>.
 </div>
