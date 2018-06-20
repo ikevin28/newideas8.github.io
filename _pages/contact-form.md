@@ -1,6 +1,6 @@
 ---
-permalink: /contact/
-title: "聯絡我們"
+permalink: /contact-form/
+title: "快速提問"
 author_profile: true
 redirect_from: 
   - /md/
