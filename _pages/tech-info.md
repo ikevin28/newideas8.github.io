@@ -19,6 +19,9 @@ PHP框架：Symfony, Laravel, CodeIgniter, Zend Framework, Phalcon, Yii, ThinkPH
 * Python 直譯器本身幾乎可以在所有的作業系統中執行。Python的正式直譯器CPython是用C語言編寫的、是一個由社群驅動的自由軟體，目前由Python軟體基金會管理。
 * Python的設計哲學是「優雅」、「明確」、「簡單」。
 
+## Java
+* Java是一種廣泛使用的電腦程式設計語言，擁有跨平台、物件導向、泛型程式設計的特性，廣泛應用於企業級Web應用開發和行動應用開發。
+
 ## C sharp
 * C#是微軟推出的一種基於.NET框架的、物件導向的進階程式語言。C#以.NET框架類別庫作為基礎，擁有類似Visual Basic的快速開發能力。
 * C#旨在設計成為一種「簡單、現代、通用」，以及物件導向的程式設計語言。
@@ -34,7 +37,16 @@ PHP框架：Symfony, Laravel, CodeIgniter, Zend Framework, Phalcon, Yii, ThinkPH
 * Drupal 的功能由於極具彈性，而且其運作環境能讓編程人員較易作大幅改動，建立出大量嶄新功能，令他備受歡迎。
 * Drupal 8 整合Symfony，有助於系統的開發、維護等。
 
+## React
+* React（有時叫React.js或ReactJS）是一個開源的JavaScript 庫。
+* React為程式設計師提供了一種子元件不能直接影響外層元件的模型，資料改變時對HTML文件的有效更新，和現代單頁應用中元件之間乾淨的分離。
 
+## JavaScript
+* JavaScript，一種高階程式語言，通過解釋執行，是一門動態型別，物件導向（基於原型）的直譯語言。
+* 它被世界上的絕大多數網站所使用，也被世界主流瀏覽器（Chrome、IE、Firefox、Safari、Opera）支援。
+
+## React Native
+* Build native mobile apps using JavaScript and React
 
 ## FB社團
 * <a href="https://www.facebook.com/groups/1403852566495675/" target = "_blank">Taiwan 程式語言讀書會 [JAVA,C,C++,C#,VB...等不拘]</a>
