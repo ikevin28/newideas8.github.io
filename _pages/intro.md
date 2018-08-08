@@ -4,8 +4,8 @@ title: "簡介"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /md/
+  - /markdown.html
 ---
 
 隨著電腦、智慧型手機與網際網路的普及，人類的經濟活動與日常生活方式正經歷許多新的改變。
