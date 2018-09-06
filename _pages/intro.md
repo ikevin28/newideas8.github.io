@@ -17,3 +17,5 @@ redirect_from:
 
 每一個偉大的點子，都有一個微不足道的開始，每一項創新服務，都可能成為未來改變世界的關鍵。新思路文創科技(NewIdeas Cultural&Creative Technology) 致力於創新軟體服務(Software Service Innovation)、資訊系統開發(Information System Development)、數位行銷整合(Digital Marketing Integration)等領域，希望科技能為人們帶來更好的生活品質。
 
+Let us work together for a better world.
+
