@@ -1,14 +1,14 @@
 # main links links
 main:
 
-  - title: "簡介"
-    url: /intro/
+#  - title: "簡介"
+#    url: /intro/
 
   - title: "專業服務"
-    url: /services/
+    url: https://web.newideas.tw/category/services
 
-  - title: "作品介紹"
-    url: /portfolio/
+#  - title: "作品介紹"
+#    url: /portfolio/
 
 #  - title: "數位行銷"
 #    url: /digital-marketing/
