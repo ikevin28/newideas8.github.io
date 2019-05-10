@@ -6,18 +6,18 @@ main:
 
   - title: "專業服務"
     url: /services/
-    
+
   - title: "作品介紹"
     url: /portfolio/
-    
+
   - title: "數位行銷"
     url: /digital-marketing/
-    
+
   - title: "技術交流"
     url: /tech-info/
-      
-  - title: "聯絡我們"
-    url: /contact-info/
+
+#  - title: "聯絡我們"
+#    url: /contact-info/
     
   - title: "快速提問"
     url: /contact-form/
