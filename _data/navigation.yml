@@ -4,8 +4,8 @@ main:
 #  - title: "簡介"
 #    url: /intro/
 
-  - title: "最新消息"
-    url: https://web.newideas.tw/category/news
+  #- title: "最新消息"
+  #  url: https://web.newideas.tw/category/news
 
 #  - title: "專業服務"
 #    url: https://web.newideas.tw/category/services
