@@ -4,8 +4,11 @@ main:
 #  - title: "簡介"
 #    url: /intro/
 
-  - title: "專業服務"
-    url: https://web.newideas.tw/category/services
+  - title: "最新消息"
+    url: https://web.newideas.tw/category/news
+
+#  - title: "專業服務"
+#    url: https://web.newideas.tw/category/services
 
 #  - title: "作品介紹"
 #    url: /portfolio/
@@ -13,8 +16,8 @@ main:
 #  - title: "數位行銷"
 #    url: /digital-marketing/
 
-  - title: "技術交流"
-    url: https://web.newideas.tw/category/technologies
+#  - title: "技術交流"
+#    url: https://web.newideas.tw/category/technologies
 
 #  - title: "聯絡我們"
 #    url: /contact-info/
